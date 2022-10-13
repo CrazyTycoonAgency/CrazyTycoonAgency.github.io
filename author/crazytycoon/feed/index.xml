@@ -15,7 +15,7 @@
 	<atom:link href="https://crazytycoonagency.github.io/author/crazytycoon/feed/" rel="self" type="application/rss+xml" />
 	<link>https://crazytycoonagency.github.io</link>
 	<description>Come, Join &#38; Die</description>
-	<lastBuildDate>Thu, 13 Oct 2022 10:25:36 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 13 Oct 2022 10:35:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,44 +23,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>Blog 4</title>
-		<link>https://crazytycoonagency.github.io/2022/10/12/blog-4-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=blog-4-2</link>
-					<comments>https://crazytycoonagency.github.io/2022/10/12/blog-4-2/?noamp=mobile#respond</comments>
-		
-		<dc:creator><![CDATA[crazytycoon]]></dc:creator>
-		<pubDate>Wed, 12 Oct 2022 09:51:59 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://crazytycoonagency.github.io/2022/10/12/blog-4-2/</guid>
-
-					<description><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p>
-<p>The post <a href="https://crazytycoonagency.github.io/2022/10/12/blog-4-2/">Blog 4</a> first appeared on <a href="https://crazytycoonagency.github.io">CrazyTycoonAgency</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p><p>The post <a href="https://crazytycoonagency.github.io/2022/10/12/blog-4-2/">Blog 4</a> first appeared on <a href="https://crazytycoonagency.github.io">CrazyTycoonAgency</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://crazytycoonagency.github.io/2022/10/12/blog-4-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Blog 3</title>
-		<link>https://crazytycoonagency.github.io/2022/10/12/blog-3-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=blog-3-2</link>
-					<comments>https://crazytycoonagency.github.io/2022/10/12/blog-3-2/?noamp=mobile#respond</comments>
-		
-		<dc:creator><![CDATA[crazytycoon]]></dc:creator>
-		<pubDate>Wed, 12 Oct 2022 09:51:59 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://crazytycoonagency.github.io/2022/10/12/blog-3-2/</guid>
-
-					<description><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p>
-<p>The post <a href="https://crazytycoonagency.github.io/2022/10/12/blog-3-2/">Blog 3</a> first appeared on <a href="https://crazytycoonagency.github.io">CrazyTycoonAgency</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p><p>The post <a href="https://crazytycoonagency.github.io/2022/10/12/blog-3-2/">Blog 3</a> first appeared on <a href="https://crazytycoonagency.github.io">CrazyTycoonAgency</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://crazytycoonagency.github.io/2022/10/12/blog-3-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Pre-registration</title>
 		<link>https://crazytycoonagency.github.io/2022/10/12/blog-2-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=blog-2-2</link>
 					<comments>https://crazytycoonagency.github.io/2022/10/12/blog-2-2/?noamp=mobile#respond</comments>
@@ -102,101 +64,6 @@
 					
 					<wfw:commentRss>https://crazytycoonagency.github.io/2022/10/12/blog-1-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Blog 4</title>
-		<link>https://crazytycoonagency.github.io/2022/10/12/blog-4/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=blog-4</link>
-					<comments>https://crazytycoonagency.github.io/2022/10/12/blog-4/?noamp=mobile#respond</comments>
-		
-		<dc:creator><![CDATA[crazytycoon]]></dc:creator>
-		<pubDate>Wed, 12 Oct 2022 09:08:22 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://crazytycoonagency.github.io/2022/10/12/blog-4/</guid>
-
-					<description><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p>
-<p>The post <a href="https://crazytycoonagency.github.io/2022/10/12/blog-4/">Blog 4</a> first appeared on <a href="https://crazytycoonagency.github.io">CrazyTycoonAgency</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p><p>The post <a href="https://crazytycoonagency.github.io/2022/10/12/blog-4/">Blog 4</a> first appeared on <a href="https://crazytycoonagency.github.io">CrazyTycoonAgency</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://crazytycoonagency.github.io/2022/10/12/blog-4/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Blog 3</title>
-		<link>https://crazytycoonagency.github.io/2022/10/12/blog-3/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=blog-3</link>
-					<comments>https://crazytycoonagency.github.io/2022/10/12/blog-3/?noamp=mobile#respond</comments>
-		
-		<dc:creator><![CDATA[crazytycoon]]></dc:creator>
-		<pubDate>Wed, 12 Oct 2022 09:08:22 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://crazytycoonagency.github.io/2022/10/12/blog-3/</guid>
-
-					<description><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p>
-<p>The post <a href="https://crazytycoonagency.github.io/2022/10/12/blog-3/">Blog 3</a> first appeared on <a href="https://crazytycoonagency.github.io">CrazyTycoonAgency</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p><p>The post <a href="https://crazytycoonagency.github.io/2022/10/12/blog-3/">Blog 3</a> first appeared on <a href="https://crazytycoonagency.github.io">CrazyTycoonAgency</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://crazytycoonagency.github.io/2022/10/12/blog-3/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Blog 2</title>
-		<link>https://crazytycoonagency.github.io/2022/10/12/blog-2/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=blog-2</link>
-					<comments>https://crazytycoonagency.github.io/2022/10/12/blog-2/?noamp=mobile#respond</comments>
-		
-		<dc:creator><![CDATA[crazytycoon]]></dc:creator>
-		<pubDate>Wed, 12 Oct 2022 09:08:22 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://crazytycoonagency.github.io/2022/10/12/blog-2/</guid>
-
-					<description><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p>
-<p>The post <a href="https://crazytycoonagency.github.io/2022/10/12/blog-2/">Blog 2</a> first appeared on <a href="https://crazytycoonagency.github.io">CrazyTycoonAgency</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p><p>The post <a href="https://crazytycoonagency.github.io/2022/10/12/blog-2/">Blog 2</a> first appeared on <a href="https://crazytycoonagency.github.io">CrazyTycoonAgency</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://crazytycoonagency.github.io/2022/10/12/blog-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Blog 1</title>
-		<link>https://crazytycoonagency.github.io/2022/10/12/blog-1/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=blog-1</link>
-					<comments>https://crazytycoonagency.github.io/2022/10/12/blog-1/?noamp=mobile#respond</comments>
-		
-		<dc:creator><![CDATA[crazytycoon]]></dc:creator>
-		<pubDate>Wed, 12 Oct 2022 09:08:22 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://crazytycoonagency.github.io/2022/10/12/blog-1/</guid>
-
-					<description><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p>
-<p>The post <a href="https://crazytycoonagency.github.io/2022/10/12/blog-1/">Blog 1</a> first appeared on <a href="https://crazytycoonagency.github.io">CrazyTycoonAgency</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet consectetur adipiscing elit, sed do eiusmod.</p><p>The post <a href="https://crazytycoonagency.github.io/2022/10/12/blog-1/">Blog 1</a> first appeared on <a href="https://crazytycoonagency.github.io">CrazyTycoonAgency</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://crazytycoonagency.github.io/2022/10/12/blog-1/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Hello world!</title>
-		<link>https://crazytycoonagency.github.io/2022/10/12/hello-world/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=hello-world</link>
-					<comments>https://crazytycoonagency.github.io/2022/10/12/hello-world/?noamp=mobile#comments</comments>
-		
-		<dc:creator><![CDATA[crazytycoon]]></dc:creator>
-		<pubDate>Wed, 12 Oct 2022 07:46:45 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http:/?p=1</guid>
-
-					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p>The post <a href="https://crazytycoonagency.github.io/2022/10/12/hello-world/">Hello world!</a> first appeared on <a href="https://crazytycoonagency.github.io">CrazyTycoonAgency</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p><p>The post <a href="https://crazytycoonagency.github.io/2022/10/12/hello-world/">Hello world!</a> first appeared on <a href="https://crazytycoonagency.github.io">CrazyTycoonAgency</a>.</p>]]></content:encoded>
-					
-					<wfw:commentRss>https://crazytycoonagency.github.io/2022/10/12/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
