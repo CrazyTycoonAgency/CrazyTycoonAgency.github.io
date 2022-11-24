@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; CrazyTycoonAgency</title>
-	<atom:link href="/https://crazytycoonagency.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://crazytycoonagency.github.io</link>
+	<atom:link href="http://www.crazytyconagency.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.crazytyconagency.github.io</link>
 	<description>Maglaro Magsaya At kumita</description>
 	<lastBuildDate>Thu, 24 Nov 2022 04:52:46 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,13 +21,13 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Guidelines For New Host</title>
-		<link>/https://crazytycoonagency.github.io/2022/11/24/guidelines-for-new-host/</link>
-					<comments>/https://crazytycoonagency.github.io/2022/11/24/guidelines-for-new-host/#respond</comments>
+		<link>http://www.crazytyconagency.github.io/2022/11/24/guidelines-for-new-host/</link>
+					<comments>http://www.crazytyconagency.github.io/2022/11/24/guidelines-for-new-host/#respond</comments>
 		
 		<dc:creator><![CDATA[crazytycoon]]></dc:creator>
 		<pubDate>Thu, 24 Nov 2022 04:52:46 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/https://crazytycoonagency.github.io/?p=17</guid>
+		<guid isPermaLink="false">http://www.crazytyconagency.github.io/?p=17</guid>
 
 					<description><![CDATA[1.AUDIO STREAMER 1.1 AUDIO 2.VIDEO STREAMER 2.1 VIDEO STREAMER]]></description>
 										<content:encoded><![CDATA[
@@ -186,7 +186,7 @@
 </ul>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://crazytycoonagency.github.io/2022/11/24/guidelines-for-new-host/feed/</wfw:commentRss>
+					<wfw:commentRss>http://www.crazytyconagency.github.io/2022/11/24/guidelines-for-new-host/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
